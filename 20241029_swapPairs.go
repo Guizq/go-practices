@@ -19,7 +19,7 @@ func intersection(num1 []int, num2 []int) []int {
 	return res
 }
 
-func main() {
+func m1323() {
 	nums1 := []int{1, 2, 2, 3}
 	nums2 := []int{2, 2}
 	fmt.Println(intersection(nums1, nums2))
